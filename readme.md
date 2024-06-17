@@ -42,3 +42,6 @@
 5. Gunakan set-up device seperti gambar di bawah
 
 ![P2](https://github.com/weekreee/FP-5027221003-5027221020/blob/main/images/P2.png)
+
+# Demo Device
+Seluruh dokumentasi pengerjaan dapat dilihat pada link berikut (https://youtu.be/0JgITNsMBL8)

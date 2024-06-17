@@ -21,6 +21,7 @@
 2. Sesuaikan IP, user, password, dan path dari masing-masing device kalian
 3. Gunakan set-up device seperti gambar di bawah
 
+![P1](https://github.com/weekreee/FP-5027221003-5027221020/blob/main/images/p1.png)
 ---
 # Project 2
 ## Alat yang digunakan
@@ -40,3 +41,4 @@
 4. Sesuaikan IP, user, password, dan path dari masing-masing device kalian
 5. Gunakan set-up device seperti gambar di bawah
 
+![P2](https://github.com/weekreee/FP-5027221003-5027221020/blob/main/images/P2.png)
